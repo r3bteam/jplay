@@ -386,8 +386,8 @@ function play(guild, song) {
 
 
 
-const adminprefix = "x";
-const devs = ['234454368072630283', '357290261409431552'];
+const adminprefix = "j";
+const devs = ['234454368072630283', '403312268223447040'];
  
 
 client.on('message', message => {
